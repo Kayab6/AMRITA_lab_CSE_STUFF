@@ -1,1 +1,21 @@
-
+Programs on Loops:
+1.	Write a program to print all numbers between 1 and 200 that are divisible by both 3 and 5 using a while loop.
+2.	Using a while loop, reverse a given integer and check whether it is a palindrome.
+3.	Write a program that repeatedly asks the user to enter a number until they enter a negative number. Print the sum of all positive numbers entered.
+4.	Generate the Fibonacci series up to n terms using a while loop.
+5.	Write a program to count digits, vowels, and consonants in a string using a while loop.
+6.	Create a menu-driven calculator using switch that performs +, −, ×, ÷ based on user choice.
+7.	Write a program that takes a month number and prints the number of days using switch.
+8.	Using switch, display grade classification based on grade character input (A, B, C, D, F).
+9.	Write a program that takes a character and checks whether it is vowel or consonant using switch.
+10.	Write a program using do-while that keeps asking the user for a password until the correct password is entered.
+11.	Create a menu program that displays options repeatedly using do-while until the user selects Exit.
+12.	Print numbers from 1 to 100, but stop when a number divisible by 17 is found.
+13.	Search for a number in an array and stop the loop once it is found. Print its index.
+14.	Generate numbers from 1 to 50 and terminate the loop when the sum exceeds 200.
+15.	Print numbers from 1 to 50 skipping multiples of 4.
+16.	Print all characters of a string except vowels using continue.
+17.	Display numbers from 1–100 but skip numbers divisible by both 3 and 5.
+18.	Write a Java program to check whether a given number is an Armstrong number.
+19.	Write a program to print all Armstrong numbers between 1 and 1000.
+20.	Write a program that counts how many Armstrong numbers exist within a user-specified range.
